@@ -15,28 +15,28 @@ To build an interactive, multi-page Power BI dashboard that supports data-driven
 ### 🔹 Sales Overview
 Key metrics like total sales, average price, and top rep performance — with time-based trends and filters.
 
-![Sales Overview](./screenshots/Sales Overview Dashboard.png)
+![Sales Overview](./screenshots/sales_overview.png)
 
 ---
 
 ### 🔹 Product Performance
 Analysis of product categories and sub-channels with tree maps, sales vs. price comparison, and filtering.
 
-![Product Performance](./screenshots/Product Performance Overview Dashboard.png)
+![Product Performance](./screenshots/product_performance.png)
 
 ---
 
 ### 🔹 Geographic Sales
 Map visuals highlighting city and country-level performance using latitude and longitude data.
 
-![Geographic Sales](./screenshots/Geographic Sales Insights Dashboard.png)
+![Geographic Sales](./screenshots/geographic_sales.png)
 
 ---
 
 ### 🔹 Sales Team Performance
 Sales rep and manager insights with charts ranking individuals and summarizing channel-wise contribution.
 
-![Sales Team Performance](./screenshots/Sales Team Performance Dashboard.png)
+![Sales Team Performance](./screenshots/sales_team_performance.png)
 
 ---
 
